@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/mesaj")
+@RequestMapping("/docker")
 public class mesajApi {
 
     @GetMapping
     public String mesajVer(){
-        return "Docker Container içinden mesaj geldi";
+        return "Docker'dan sevgilerle :))) ";
     }
 
 }

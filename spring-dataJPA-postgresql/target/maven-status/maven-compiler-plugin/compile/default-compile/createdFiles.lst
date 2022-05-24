@@ -1,0 +1,10 @@
+com/latestDevelopers/repo/AdresRepository.class
+com/latestDevelopers/entity/Adres.class
+com/latestDevelopers/dto/KisiDto.class
+com/latestDevelopers/DataJpaApplication.class
+com/latestDevelopers/entity/Adres$AdresTip.class
+com/latestDevelopers/service/impl/KisiServiceImpl.class
+com/latestDevelopers/service/KisiService.class
+com/latestDevelopers/controller/KisiController.class
+com/latestDevelopers/repo/KisiRepository.class
+com/latestDevelopers/entity/Kisi.class
