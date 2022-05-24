@@ -14,6 +14,8 @@
         <module>spring-elasticsearch</module>
         <module>spring-dataJPA-postgresql</module>
         <module>spring-boot-api-swagger</module>
+        <module>spring-boot-rabbitmq</module>
+        <module>spring-boot-dockerization</module>
     </modules>
 
     <properties>
