@@ -10,12 +10,16 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-mongo-rest-api</module>
-        <module>spring-hello-world</module>
+        <module>spring-Dependency-Injection</module>
         <module>spring-elasticsearch</module>
         <module>spring-dataJPA-postgresql</module>
         <module>spring-boot-api-swagger</module>
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-dockerization</module>
+        <module>spring-boot-AOP</module>
+        <module>spring-GraphQL</module>
+        <module>spring-boot-rest-template</module>
+        <module>spring-boot-events</module>
     </modules>
 
     <properties>
